@@ -1,0 +1,19 @@
+{
+  "name": "@gumball/cpod-revision",
+  "version": "1.0.1",
+  "description": "Revision logic for flashcard projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gumball/CPOD-Revision.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gumball/CPOD-Revision/issues"
+  },
+  "homepage": "https://github.com/gumball/CPOD-Revision#readme"
+}
